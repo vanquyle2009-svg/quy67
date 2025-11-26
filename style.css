@@ -1,15 +1,16 @@
 h1 {
-    color: red;
-    text-align: center;
+    color: red; /* Màu chữ đỏ */
+    text-align: center; /* Căn giữa */
 }
-.p1 {
-    color: yellow; 
-    font-size: 13px; 
-    font-family: Arial, sans-serif; 
+p:first-of-type {
+    color: yellow; /* Màu chữ vàng */
+    font-size: 13px; /* Cỡ chữ 13 pixels */
+    font-family: Arial, sans-serif; /* Font Arial */
 }
-.p2 {
-    background-color: yellow;
-    font-weight: bold;
-    font-size: 13px;
-    font-family: "Times New Roman", serif;
-    padding: 5px;
+p:last-of-type {
+    background-color: yellow; /* Màu nền vàng */
+    font-weight: bold; /* In đậm */
+    font-size: 13px; /* Cỡ chữ 13 pixels */
+    font-family: "Times New Roman", serif; /* Font Times New Roman */
+    padding: 5px; 
+}
