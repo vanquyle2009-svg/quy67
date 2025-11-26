@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+.p1 {
+    color: yellow; 
+    font-size: 13px; 
+    font-family: Arial, sans-serif; 
+}
+.p2 {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: "Times New Roman", serif;
+    padding: 5px;
